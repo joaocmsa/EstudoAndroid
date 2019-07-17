@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">EstudoAlura</string>
+    <string name="nomeEdtFormulario">Nome</string>
+    <string name="telefoneEdtFormulario">Telefone</string>
+    <string name="emailEdtFormulario">E-mail</string>
+    <string name="salvar">Salvar</string>
+    <string name="remover">Remover</string>
 </resources>

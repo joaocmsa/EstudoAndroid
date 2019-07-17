@@ -7,7 +7,7 @@ import br.com.joaoc.estudoalura.model.Aluno;
 
 public class AlunoDAO {
 
-    private final static List<Aluno> alunos = new ArrayList<Aluno>();
+    private final static List<Aluno> alunos = new ArrayList<>();
     private static int countId = 1;
 
     public void salvar(Aluno aluno) {

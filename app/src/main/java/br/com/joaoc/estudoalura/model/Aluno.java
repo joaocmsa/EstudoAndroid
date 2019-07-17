@@ -1,6 +1,6 @@
 package br.com.joaoc.estudoalura.model;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import java.io.Serializable;
 
